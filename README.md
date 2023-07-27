@@ -46,6 +46,26 @@
 - [Advanced Programming in Swift](https://coursera.org/verify/K7X47DRYQ9EV) 
 
 - [Working with Data in iOS](https://coursera.org/verify/HX9F6U9QUG4K)
+
+
+<!--### Hi there 👋, my name is Shrey
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyfeb)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyfeb)  
+
+![Profile views](https://gpvc.arturio.dev/shreyfeb)  
+I made this project just for fun -->
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyfeb&show_icons=true)  
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shreyfeb)  
+
+
+
     
 <h2>🤳🏽 Connect with me:</h2>
 
