@@ -20,7 +20,7 @@
   - [Design and Developed in Swift]( )
 
 
-<h2>Application deployed<a href="https://www.apple.com/app-store/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg" alt="cplusplus" width="100" height="30"/> </a></h2>
+<h2>📱 Application deployed<a href="https://www.apple.com/app-store/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg" alt="cplusplus" width="100" height="30"/> </a></h2>
 
 - [NHS Wales COPDhub (COPDhub)](https://apps.apple.com/us/app/nhs-wales-copdhub/id1483228694)
 - [NHSWales Asthmahub for Parents (Asthmahub for Parents)](https://apps.apple.com/us/app/nhswales-asthmahub-for-parents/id1483065870)
