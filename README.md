@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 iOS Development Projects:</h2>
 
-- <b> NHS Wales COPDhub (COPDhub) </b>
-  - [Design and Developed in Swift]( https://apps.apple.com/us/app/nhs-wales-copdhub/id1483228694)
+- <h3> NHS Wales COPDhub (COPDhub) </h3>
+<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub1.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub2.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub3.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub4.jpeg" width="300">&nbsp
+<img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub5.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub6.jpeg" width="300"></p>
 - <b> NHSWales Asthmahub for Parents<b>
   - [Design and Developed in Swift]( )
 - <b> NHS Wales Asthmahub (Asthmahub) <b>
