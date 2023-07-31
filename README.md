@@ -7,18 +7,19 @@
 <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub5.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub6.jpeg" width="300"></p>
 
 - <h3> NHSWales Asthmahub for Parents </h3>
-  <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents1.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents2.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents3.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents4.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents5.jpeg" width="300"></p>
+  <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents1.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents4.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents5.jpeg" width="300"></p>
 
 
-- <b> NHS Wales Asthmahub (Asthmahub) <b>
-<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub1.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub2.jpeg"300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub3.jpeg"300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub4.jpeg"300">&nbsp </p>
+- <h3> NHS Wales Asthmahub (Asthmahub) </h3>
+<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub1.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub3.jpeg" width="300"></p>
 
 
 - <b> ART Compass <b>
 <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/1.jpeg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/2.jpeg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/3.jpeg" width="300"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/4.jpeg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/5.jpeg" width="300"></p>
 
-- <b>HomeSOS <b>
-  - [Design and Developed in Swift]( )
+- <h3>HomeSOS </h3>
+ <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs1.jpg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs3.jpg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs4.jpg" width="300"></p>
+
 - <b>Sports drills & skills <b>
   - [Design and Developed in Swift]( )
 - <b>Hifadth (Tahfidh) <b>
