@@ -4,29 +4,30 @@
 
 - <h3> NHS Wales COPDhub (COPDhub) </h3>
 <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub6.jpeg" width="250">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub4.jpeg" width="250">&nbsp
-<img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub5.jpeg" width="250"></p>
+<img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub5.jpeg" width="250"></p><br>
 
 - <h3> NHSWales Asthmahub for Parents </h3>
-  <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents1.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents4.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents5.jpeg" width="250"></p>
+  <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents1.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents4.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents5.jpeg" width="250"></p><br>
 
 
 - <h3> NHS Wales Asthmahub (Asthmahub) </h3>
-<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub1.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub3.jpeg" width="250"></p>
+<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub1.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub3.jpeg" width="250"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub2.jpeg" width="250"></p><br>
 
 
 - <b> ART Compass <b>
-<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/1.jpeg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/3.jpeg" width="250"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/4.jpeg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/5.jpeg" width="250"></p>
+<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/1.jpeg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/3.jpeg" width="250"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/4.jpeg" width="250"></p><br>
 
 - <h3>HomeSOS </h3>
- <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs1.jpg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs3.jpg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs4.jpg" width="250"></p>
+ <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs1.jpg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs3.jpg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs4.jpg" width="250"></p><br>
 
+<!--
 - <b>Sports drills & skills <b>
   - [Design and Developed in Swift]( )
 - <b>Hifadth (Tahfidh) <b>
   - [Design and Developed in Swift]( )
 - <b>Haramain (bug Fixed) <b>
   - [Design and Developed in Swift]( )
-
+-->
 
 <h2>📱 Application deployed<a href="https://www.apple.com/app-store/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg" alt="cplusplus" width="100" height="30"/> </a></h2>
 
