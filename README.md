@@ -9,7 +9,7 @@
 - <b> NHS Wales Asthmahub (Asthmahub) <b>
   - [Design and Developed in Swift]( )
 - <b> ART Compass <b>
-<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/1.PNG" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/2.PNG" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/3.PNG" width="300"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/4.PNG" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/5.PNG" width="300"></p>
+<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/1.jpeg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/2.jpeg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/3.jpeg" width="300"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/4.jpeg" width="300">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/5.jpeg" width="300"></p>
 
 - <b>HomeSOS <b>
   - [Design and Developed in Swift]( )
