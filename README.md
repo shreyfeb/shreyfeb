@@ -3,8 +3,8 @@
 <h2>👨‍💻 iOS Development Projects:</h2>
 
 - <h3> NHS Wales COPDhub (COPDhub) </h3>
-<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub1.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub2.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub3.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub4.jpeg" width="300">&nbsp
-<img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub5.jpeg" width="300">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub6.jpeg" width="300"></p>
+<p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub1.jpeg" width="250">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub2.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub3.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub4.jpeg" width="250">&nbsp
+<img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub5.jpeg" width="250">&nbsp  <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub6.jpeg" width="250"></p>
 
 - <h3> NHSWales Asthmahub for Parents </h3>
   <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents1.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents4.jpeg" width="300">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Parents5.jpeg" width="300"></p>
