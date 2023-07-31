@@ -24,7 +24,7 @@
   <img src="https://github.com/shreyfeb/shreyfeb/blob/main/3.jpeg" width="250">&nbsp 
   <img src="https://github.com/shreyfeb/shreyfeb/blob/main/4.jpeg" width="250"></p><br>
 
-- <h3>HomeSOS </h3>
+- <h3> HomeSOS </h3>
  <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs1.jpg" width="250">&nbsp
    <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs3.jpg" width="250">&nbsp
    <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs4.jpg" width="250"></p><br>
