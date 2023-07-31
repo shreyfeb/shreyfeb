@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub1.jpeg" width="250">&nbsp <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub3.jpeg" width="250"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/Asthmahub2.jpeg" width="250"></p><br>
 
 
-- <b> ART Compass <b>
+- <h3> ART Compass </h3>
 <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/1.jpeg" width="250">&nbsp<img src="https://github.com/shreyfeb/shreyfeb/blob/main/3.jpeg" width="250"><img src="https://github.com/shreyfeb/shreyfeb/blob/main/4.jpeg" width="250"></p><br>
 
 - <h3>HomeSOS </h3>
