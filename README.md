@@ -1,4 +1,11 @@
-<h1>Hi, I'm Shrey! <br/><a href=" https://github.com/shreyfeb r1"><a href="https://www.linkedin.com/in/shreyfeb/">iOS Developer</a> (Swift , SwiftUI , Objective-C)  </a></h1>
+<h1>  Hi, I'm Shrey! <br><a href=" https://github.com/shreyfeb r1"><tt><a href="https://www.linkedin.com/in/shreyfeb/">iOS Developer</a> (Swift , SwiftUI , Objective-C)</tt></h2> </h1> </a>
+
+<h2> 📝About:</h2>
+•	Experienced iOS developer with a Master's degree in Computer Science.<br/>
+•	Extensive experience in Swift, SwiftUI, and Objective-C.<br/>
+•	Deployed multiple apps in several industries, including sports, healthcare, spirituality, e-commerce, and music.<br/>
+•	Worked with frameworks such as UIkit, Healthkit, WebKit, StoreKit, MapKit, and AVkit.<br/>
+•	Experience working with REST APIs, JSON/XML, and Core Data.<br/>
 
 <h2>👨‍💻 iOS Development Projects:</h2>
 
