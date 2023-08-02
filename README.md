@@ -1,4 +1,4 @@
-<h1>  Hi, I'm Shrey! <br><tt><a href="https://www.linkedin.com/in/shreyfeb/">iOS Developer</a> (Swift, SwiftUI, Objective-C)</tt></h2> </h1>
+<h1> Hi, I'm Shrey! <br><tt><a href="https://www.linkedin.com/in/shreyfeb/">iOS Developer</a> (Swift, SwiftUI, Objective-C)</tt></h2> </h1>
 
 <h2> 📝 About:</h2>
 •	Experienced iOS developer with a Master's degree in Computer Science.<br/>
