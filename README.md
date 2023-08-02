@@ -82,11 +82,11 @@
 ![Profile views](https://gpvc.arturio.dev/shreyfeb)  
 I made this project just for fun -->
 
-<h2>📊 Statistics</h2>
+<!-- <h2>📊 Statistics</h2> -->
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyfeb&show_icons=true)  -->
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shreyfeb)  
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=shreyfeb) -->
 
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="left"> 
