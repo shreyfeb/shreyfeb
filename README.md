@@ -56,7 +56,7 @@
 - [Hifadth (Tahfidh)](https://apps.apple.com/us/app/tahfidh-memorize/id1462411317)
 - [Haramain (bug fixing)]( https://apps.apple.com/us/app/haramain-recordings/id1351839790)
 
-<h2>🎖️Certification </h2>
+<h2>🎖 Certification </h2>
 <b>Authorized by Meta</b>
 
 - [Introduction to iOS Mobile Application Development](https://coursera.org/verify/Z56XKVHF9862)
