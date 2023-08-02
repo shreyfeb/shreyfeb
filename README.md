@@ -7,7 +7,7 @@
 •	Worked with frameworks such as UIkit, Healthkit, WebKit, StoreKit, MapKit, and AVkit.<br/>
 •	Experience working with REST APIs, JSON/XML, and Core Data.<br/>
 
-<h2>👨‍💻 iOS Development Projects:</h2>
+<h2>👨‍💻 iOS Development Projects: </h2>
 
 - <h3> NHS Wales COPDhub (COPDhub) </h3>
 <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub6.jpeg" width="250">&nbsp  
