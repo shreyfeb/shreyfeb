@@ -88,7 +88,7 @@ I made this project just for fun -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shreyfeb)
 
-<h2 align="left">💻 Languages and Tools:</h2>
+<h2 align="left">💻 Languages and Tools: </h2>
 <p align="left"> 
 </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
 <a href="https://developer.apple.com/xcode/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
