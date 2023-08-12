@@ -82,7 +82,7 @@
 ![Profile views](https://gpvc.arturio.dev/shreyfeb)  
 I made this project just for fun -->
 
-<h2>📊 Statistics</h2>
+<h2>📊 Statistics </h2>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyfeb&show_icons=true) -->
 
