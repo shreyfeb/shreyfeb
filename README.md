@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 iOS Development Projects: </h2>
 
-- <h3> NHS Wales COPDhub (COPDhub) </h3>
+- <h3> NHS Wales COPDhub (COPDhub)</h3>
 <p align="left"> <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub6.jpeg" width="250">&nbsp  
   <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub4.jpeg" width="250">&nbsp
   <img src="https://github.com/shreyfeb/shreyfeb/blob/main/COPDhub5.jpeg" width="250"></p><br>
