@@ -37,7 +37,7 @@
    <img src="https://github.com/shreyfeb/shreyfeb/blob/main/Hs4.jpg" width="250"></p><br>
 
 <!--
-- <b>Sports drills & skills <b>
+- <b> Sports drills & skills <b>
   - [Design and Developed in Swift]( )
 - <b>Hifadth (Tahfidh) <b>
   - [Design and Developed in Swift]( )
