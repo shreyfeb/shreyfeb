@@ -74,7 +74,7 @@
 - [Working with Data in iOS](https://coursera.org/verify/HX9F6U9QUG4K)
 
 
-<!--### Hi there 👋, my name is Shrey
+<!--### Hi there 👋,  my name is Shrey
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyfeb)](https://github.com/anuraghazra/github-readme-stats)
