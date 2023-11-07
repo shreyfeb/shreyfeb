@@ -4,7 +4,7 @@
 •	Experienced iOS developer with a Master's degree in Computer Science.<br/>
 •	Extensive experience in Swift, SwiftUI, and Objective-C <br/>
 •	Deployed multiple apps in several industries, including sports, healthcare, spirituality, e-commerce, and music. <br/>
-•	Worked with frameworks such as UIkit, Healthkit, WebKit, StoreKit, MapKit, and AVkit. <br/>
+•	Worked with frameworks such as UIkit, Healthkit, WebKit, StoreKit, MapKit, and AVkit.<br/>
 •	Experience working with REST APIs, JSON/XML, and Core Data. <br/>
 
 <h2>👨‍💻 iOS Development Projects: </h2>
