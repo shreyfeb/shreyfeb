@@ -107,7 +107,7 @@ I made this project just for fun -->
 
 <!--[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-[twitter]: https://twitter.com/shreyfeb
+<!--[twitter]: https://twitter.com/shreyfeb-->
 <!--[instagram]: https://www.instagram.com/-->
 
 [linkedin]: https://www.linkedin.com/in/shreyfeb/
